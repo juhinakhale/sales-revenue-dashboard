@@ -93,9 +93,6 @@ sales-revenue-dashboard/
 
 ## Dashboard Preview
 
-### Executive Dashboard
-![Executive Dashboard](dashboard/screenshots/executive_dashboard.png)
-
 ### Revenue Analysis Dashboard
 ![Revenue Dashboard](dashboard/screenshots/revenue_dashboard.png)
 
